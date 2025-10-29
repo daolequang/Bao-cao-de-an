@@ -1,0 +1,15 @@
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_GUI.exe.config
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_GUI.exe
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_GUI.pdb
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_BLL.dll
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_DTO.dll
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_DAL.dll
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_BLL.pdb
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_DTO.pdb
+F:\Review\QuanLyDeTai\DeTai_GUI\bin\Debug\DeTai_DAL.pdb
+F:\Review\QuanLyDeTai\DeTai_GUI\obj\Debug\DeTai_GUI.csproj.AssemblyReference.cache
+F:\Review\QuanLyDeTai\DeTai_GUI\obj\Debug\DeTai_GUI.csproj.CoreCompileInputs.cache
+F:\Review\QuanLyDeTai\DeTai_GUI\obj\Debug\DeTai_GUI.csproj.Up2Date
+F:\Review\QuanLyDeTai\DeTai_GUI\obj\Debug\DeTai_GUI.exe
+F:\Review\QuanLyDeTai\DeTai_GUI\obj\Debug\DeTai_GUI.pdb
+F:\Review\QuanLyDeTai\DeTai_GUI\obj\Debug\DeTai_GUI.exe.config

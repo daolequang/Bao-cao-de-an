@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Review\\QuanLyDeTai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Data{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|F:\\Review\\QuanLyDeTai\\Data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Data{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:Data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D828D5-D22D-4388-8C19-B325E316EFB6}|DeTai_DAL\\DeTai_DAL.csproj|F:\\Review\\QuanLyDeTai\\detai_dal\\detaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D828D5-D22D-4388-8C19-B325E316EFB6}|DeTai_DAL\\DeTai_DAL.csproj|solutionrelative:detai_dal\\detaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7414DC-27F9-4311-A4A2-BA3FB1E45CB0}|DeTai_GUI\\DeTai_GUI.csproj|F:\\Review\\QuanLyDeTai\\detai_gui\\classdata.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{3D7414DC-27F9-4311-A4A2-BA3FB1E45CB0}|DeTai_GUI\\DeTai_GUI.csproj|solutionrelative:detai_gui\\classdata.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D32D73-78C6-4532-8245-A85F6EE2876F}|DeTai_DTO\\DeTai_DTO.csproj|F:\\Review\\QuanLyDeTai\\detai_dto\\detai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D32D73-78C6-4532-8245-A85F6EE2876F}|DeTai_DTO\\DeTai_DTO.csproj|solutionrelative:detai_dto\\detai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4820FB48-9A3B-48D5-83B1-5452F460F079}|DeTai_BLL\\DeTai_BLL.csproj|F:\\Review\\QuanLyDeTai\\detai_bll\\detaibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4820FB48-9A3B-48D5-83B1-5452F460F079}|DeTai_BLL\\DeTai_BLL.csproj|solutionrelative:detai_bll\\detaibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7414DC-27F9-4311-A4A2-BA3FB1E45CB0}|DeTai_GUI\\DeTai_GUI.csproj|F:\\Review\\QuanLyDeTai\\detai_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7414DC-27F9-4311-A4A2-BA3FB1E45CB0}|DeTai_GUI\\DeTai_GUI.csproj|solutionrelative:detai_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.xml",
+              "DocumentMoniker": "F:\\Review\\QuanLyDeTai\\Data.xml",
+              "RelativeDocumentMoniker": "Data.xml",
+              "ToolTip": "F:\\Review\\QuanLyDeTai\\Data.xml",
+              "RelativeToolTip": "Data.xml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwFkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-29T15:22:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassData.cd",
+              "DocumentMoniker": "F:\\Review\\QuanLyDeTai\\DeTai_GUI\\ClassData.cd",
+              "RelativeDocumentMoniker": "DeTai_GUI\\ClassData.cd",
+              "ToolTip": "F:\\Review\\QuanLyDeTai\\DeTai_GUI\\ClassData.cd",
+              "RelativeToolTip": "DeTai_GUI\\ClassData.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-29T03:18:15.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Review\\QuanLyDeTai\\DeTai_GUI\\Program.cs",
+              "RelativeDocumentMoniker": "DeTai_GUI\\Program.cs",
+              "ToolTip": "F:\\Review\\QuanLyDeTai\\DeTai_GUI\\Program.cs",
+              "RelativeToolTip": "DeTai_GUI\\Program.cs",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAwwNEBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:13:38.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeTaiBLL.cs",
+              "DocumentMoniker": "F:\\Review\\QuanLyDeTai\\DeTai_BLL\\DeTaiBLL.cs",
+              "RelativeDocumentMoniker": "DeTai_BLL\\DeTaiBLL.cs",
+              "ToolTip": "F:\\Review\\QuanLyDeTai\\DeTai_BLL\\DeTaiBLL.cs",
+              "RelativeToolTip": "DeTai_BLL\\DeTaiBLL.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAgwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:12:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeTaiDAL.cs",
+              "DocumentMoniker": "F:\\Review\\QuanLyDeTai\\DeTai_DAL\\DeTaiDAL.cs",
+              "RelativeDocumentMoniker": "DeTai_DAL\\DeTaiDAL.cs",
+              "ToolTip": "F:\\Review\\QuanLyDeTai\\DeTai_DAL\\DeTaiDAL.cs",
+              "RelativeToolTip": "DeTai_DAL\\DeTaiDAL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:07:46.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeTai.cs",
+              "DocumentMoniker": "F:\\Review\\QuanLyDeTai\\DeTai_DTO\\DeTai.cs",
+              "RelativeDocumentMoniker": "DeTai_DTO\\DeTai.cs",
+              "ToolTip": "F:\\Review\\QuanLyDeTai\\DeTai_DTO\\DeTai.cs",
+              "RelativeToolTip": "DeTai_DTO\\DeTai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:06:27.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

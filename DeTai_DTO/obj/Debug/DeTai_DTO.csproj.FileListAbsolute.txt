@@ -1,0 +1,6 @@
+F:\Review\QuanLyDeTai\DeTai_DTO\bin\Debug\DeTai_DTO.dll
+F:\Review\QuanLyDeTai\DeTai_DTO\bin\Debug\DeTai_DTO.pdb
+F:\Review\QuanLyDeTai\DeTai_DTO\obj\Debug\DeTai_DTO.csproj.AssemblyReference.cache
+F:\Review\QuanLyDeTai\DeTai_DTO\obj\Debug\DeTai_DTO.csproj.CoreCompileInputs.cache
+F:\Review\QuanLyDeTai\DeTai_DTO\obj\Debug\DeTai_DTO.dll
+F:\Review\QuanLyDeTai\DeTai_DTO\obj\Debug\DeTai_DTO.pdb

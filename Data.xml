@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DeTais>
+	<!-- Đề tài Lý thuyết -->
+	<DeTai type="LyThuyet">
+		<MaSo>DT001</MaSo>
+		<TenDeTai>Nghiên cứu trí tuệ nhân tạo</TenDeTai>
+		<KinhPhi>0</KinhPhi>
+		<TenChuTri>Nguyen Van A</TenChuTri>
+		<GvHuongDan>Le Thi B</GvHuongDan>
+		<NgayBD>2025-06-01</NgayBD>
+		<NgayKT>2025-10-01</NgayKT>
+		<ApDungThucTe>true</ApDungThucTe>
+	</DeTai>
+
+	<DeTai type="LyThuyet">
+		<MaSo>DT004</MaSo>
+		<TenDeTai>Lý thuyết đồ thị và ứng dụng</TenDeTai>
+		<KinhPhi>0</KinhPhi>
+		<TenChuTri>Hoang Van G</TenChuTri>
+		<GvHuongDan>Le Thi B</GvHuongDan>
+		<NgayBD>2025-03-01</NgayBD>
+		<NgayKT>2025-08-30</NgayKT>
+		<ApDungThucTe>false</ApDungThucTe>
+	</DeTai>
+
+	<!-- Đề tài Kinh tế -->
+	<DeTai type="KinhTe">
+		<MaSo>DT002</MaSo>
+		<TenDeTai>Khảo sát hành vi tiêu dùng</TenDeTai>
+		<KinhPhi>0</KinhPhi>
+		<TenChuTri>Tran Thi C</TenChuTri>
+		<GvHuongDan>Pham Van D</GvHuongDan>
+		<NgayBD>2025-05-01</NgayBD>
+		<NgayKT>2025-09-30</NgayKT>
+		<SoCauHoi>120</SoCauHoi>
+	</DeTai>
+
+	<DeTai type="KinhTe">
+		<MaSo>DT005</MaSo>
+		<TenDeTai>Phân tích thị trường bất động sản</TenDeTai>
+		<KinhPhi>0</KinhPhi>
+		<TenChuTri>Bui Thi H</TenChuTri>
+		<GvHuongDan>Pham Van D</GvHuongDan>
+		<NgayBD>2025-01-15</NgayBD>
+		<NgayKT>2025-06-30</NgayKT>
+		<SoCauHoi>80</SoCauHoi>
+	</DeTai>
+
+	<DeTai type="KinhTe">
+		<MaSo>DT007</MaSo>
+		<TenDeTai>Nghiên cứu xu hướng đầu tư startup</TenDeTai>
+		<KinhPhi>0</KinhPhi>
+		<TenChuTri>Do Van K</TenChuTri>
+		<GvHuongDan>Vo Thi L</GvHuongDan>
+		<NgayBD>2025-07-01</NgayBD>
+		<NgayKT>2026-01-31</NgayKT>
+		<SoCauHoi>150</SoCauHoi>
+	</DeTai>
+
+	<!-- Đề tài Công nghệ -->
+	<DeTai type="CongNghe">
+		<MaSo>DT003</MaSo>
+		<TenDeTai>Ứng dụng quản lý sinh viên</TenDeTai>
+		<KinhPhi>0</KinhPhi>
+		<TenChuTri>Le Van E</TenChuTri>
+		<GvHuongDan>Nguyen Thi F</GvHuongDan>
+		<NgayBD>2025-07-01</NgayBD>
+		<NgayKT>2025-12-15</NgayKT>
+		<MoiTruong>mobile</MoiTruong>
+	</DeTai>
+
+	<DeTai type="CongNghe">
+		<MaSo>DT006</MaSo>
+		<TenDeTai>Website thương mại điện tử</TenDeTai>
+		<KinhPhi>0</KinhPhi>
+		<TenChuTri>Phan Van I</TenChuTri>
+		<GvHuongDan>Nguyen Thi F</GvHuongDan>
+		<NgayBD>2025-02-01</NgayBD>
+		<NgayKT>2025-07-31</NgayKT>
+		<MoiTruong>web</MoiTruong>
+	</DeTai>
+
+	<DeTai type="CongNghe">
+		<MaSo>DT008</MaSo>
+		<TenDeTai>Phần mềm quản lý thư viện</TenDeTai>
+		<KinhPhi>0</KinhPhi>
+		<TenChuTri>Cao Thi M</TenChuTri>
+		<GvHuongDan>Tran Van N</GvHuongDan>
+		<NgayBD>2025-04-01</NgayBD>
+		<NgayKT>2025-11-30</NgayKT>
+		<MoiTruong>window</MoiTruong>
+	</DeTai>
+</DeTais>
