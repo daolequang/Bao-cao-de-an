@@ -65,11 +65,5 @@ namespace DeTai_DAL
 
             return dsDeTai;
         }
-
-        // Có thể thêm các phương thức khác như:
-        // - GhiDanhSachDeTai(string filename, List<DeTai> dsDeTai)
-        // - TimDeTaiTheoMa(string maSo)
-        // - XoaDeTai(string maSo)
-        // - CapNhatDeTai(DeTai deTai)
     }
 }
