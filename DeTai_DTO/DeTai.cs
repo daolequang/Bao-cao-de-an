@@ -18,6 +18,7 @@ namespace DeTai_DTO
         public string GvHuongDan { get; set; }
         public DateTime NgayBD { get; set; }
         public DateTime NgayKT { get; set; }
+       
 
         protected DeTai() { }
 
