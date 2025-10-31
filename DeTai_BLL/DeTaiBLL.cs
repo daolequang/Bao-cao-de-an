@@ -139,21 +139,21 @@ namespace DeTai_BLL
 
             return true;
         }
-        // 13 Lý thuyết & có khả năng triển khai thực tế
+        // Lý thuyết & có khả năng triển khai thực tế
         public List<DeTai> LayDeTaiLyThuyetApDungThucTe(List<DeTai> dsDeTai)
         {
             
-            return dsDeTai.Where(dt => dt is DeTaiLyThuyet lt && lt.ApDungThucTe).ToList();
+            return dsDeTai.OfType<DeTaiLyThuyet>().Where(lt => lt.ApDungThucTe).Cast<DeTai>().ToList();
         }
 
-        //14 Kinh tế có số câu hỏi khảo sát > 100
+        // Kinh tế có số câu hỏi khảo sát > 100
         public List<DeTai> LayDeTaiKinhTeSoCauHoiTren100(List<DeTai> dsDeTai)
         {
             
-            return dsDeTai.Where(dt => dt is DeTaiKinhTe kt && kt.SoCauHoi > 100).ToList();
+            return dsDeTai.OfType<DeTaiKinhTe>().Where(kt => kt.SoCauHoi > 100).Cast<DeTai>().ToList();// cast để chuyển đổi ngược lại sang DeTai
         }
 
-        //15 Thời gian thực hiện > 4 tháng
+        // Thời gian thực hiện > 4 tháng
         public List<DeTai> LayDeTaiThoiGianTren4Thang(List<DeTai> dsDeTai)
         {
          
