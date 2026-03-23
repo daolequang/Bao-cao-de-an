@@ -4,27 +4,27 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## 📋 Giới Thiệu
+##  Giới Thiệu
 
 **Quản Lý Đề Tài Nghiên Cứu** là ứng dụng desktop giúp quản lý toàn diện các đề tài nghiên cứu khoa học trong môi trường học thuật. Ứng dụng hỗ trợ theo dõi thông tin đề tài, quản lý kinh phí, giảng viên hướng dẫn và các dữ liệu quan trọng khác một cách hiệu quả.
 
-### ✨ Tính Năng Chính
+###  Tính Năng Chính
 
-- ✅ Quản lý đề tài nghiên cứu (Thêm, Sửa, Xóa)
-- 💰 Tính toán và cập nhật kinh phí thực hiện theo tỷ lệ phần trăm
-- 🔍 Tìm kiếm đề tài theo nhiều tiêu chí (tên, mã số, giảng viên)
-- 📊 Xuất danh sách đề tài với bộ lọc linh hoạt
-- 📁 Lưu trữ dữ liệu dạng XML
-- 🖥️ Giao diện thân thiện, dễ sử dụng
+-  Quản lý đề tài nghiên cứu (Thêm, Sửa, Xóa)
+-  Tính toán và cập nhật kinh phí thực hiện theo tỷ lệ phần trăm
+-  Tìm kiếm đề tài theo nhiều tiêu chí (tên, mã số, giảng viên)
+-  Xuất danh sách đề tài với bộ lọc linh hoạt
+-  Lưu trữ dữ liệu dạng XML
+-  Giao diện thân thiện, dễ sử dụng
 
-## 🛠️ Công Nghệ Sử Dụng
+##  Công Nghệ Sử Dụng
 
 - **Ngôn ngữ**: C#
 - **Framework**: .NET 6.0
 - **Lưu trữ dữ liệu**: XML
 - **IDE**: Visual Studio 2019 trở lên
 
-## 📦 Cài Đặt
+##  Cài Đặt
 
 ### Yêu Cầu Hệ Thống
 
@@ -51,7 +51,7 @@
    dotnet run
    ```
 
-## 📁 Cấu Trúc Dự Án
+##  Cấu Trúc Dự Án
 
 ```
 QuanLyDeTai/
@@ -69,7 +69,7 @@ QuanLyDeTai/
 - **BLL**: Logic tính toán kinh phí, xử lý nghiệp vụ
 - **GUI**: Các form Windows Forms cho giao diện người dùng
 
-## 📖 Hướng Dẫn Sử Dụng
+##  Hướng Dẫn Sử Dụng
 
 ### 1. Thêm Đề Tài Mới
 - Nhấn nút "Thêm mới"
@@ -90,7 +90,7 @@ QuanLyDeTai/
 - Chọn tiêu chí lọc (kinh phí, thời gian, trạng thái, v.v.)
 - Nhấn "Xuất danh sách" để xem hoặc in báo cáo
 
-## 🤝 Đóng Góp
+##  Đóng Góp
 
 Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng! Để đóng góp:
 
@@ -114,16 +114,16 @@ Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng! Để đóng gó
 - Thêm comment cho các function phức tạp
 - Test kỹ trước khi submit PR
 
-## 📝 License
+##  License
 
 Dự án này được phát hành dưới giấy phép [MIT License](LICENSE).
 
-## 📧 Liên Hệ
+##  Liên Hệ
 
 - **Email**: quangdaoo2808@gmail.com
 - **GitHub**: [@daolequang](https://github.com/daolequang)
 
-## 🙏 Cảm Ơn
+##  Cảm Ơn
 
 Cảm ơn tất cả những ai đã đóng góp và hỗ trợ cho dự án này! Đặc biệt cảm ơn:
 - Các giảng viên hướng dẫn
@@ -132,4 +132,4 @@ Cảm ơn tất cả những ai đã đóng góp và hỗ trợ cho dự án nà
 
 ---
 
-⭐ Nếu thấy dự án hữu ích, hãy cho chúng tôi một star nhé!
+ Nếu thấy dự án hữu ích, hãy cho chúng tôi một star nhé!
